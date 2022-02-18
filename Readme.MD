@@ -13,3 +13,7 @@
 ## Reference
 
 [Firebase getting started](https://firebase.google.com/docs/functions/get-started)
+
+## Next steps 
+
+Integrate database access.
